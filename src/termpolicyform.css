@@ -1,0 +1,142 @@
+.termbody {
+  background-color: #BFBFFF;
+  padding: 20px;
+  height: 50vh;
+}
+
+.term-form-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+  height: 70vh;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.term-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.term-form-title {
+  color: #3D348B;
+  font-size: 2rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.term-form-subtitle {
+  color: #666;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.term-form-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.term-form-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  margin-left: 150px;
+}
+
+.purchase-request {
+  background-color: #3D348B;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.form-image {
+  width: 200px;
+}
+
+.term-form-right {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.term-form-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.term-form-group {
+  margin-bottom: 15px;
+  width: 48%;
+  margin-left: -100px;
+}
+.term-form-group-1{
+    margin-bottom: 15px;
+    width: 48%;
+    margin-left: 40px;
+  
+}
+
+.term-form-group label {
+  display: block;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.term-form-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid #3D348B;
+  background: none;
+  outline: none;
+}
+
+.term-form-input-file {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.term-form-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.term-submit-button {
+  background-color: #3D348B;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-left: -200px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.term-alert {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+}
+
+.term-upload-container {
+  display: flex;
+  justify-content: center;
+}

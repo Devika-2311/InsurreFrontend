@@ -1,0 +1,131 @@
+.healthbody {
+    background-color: #BFBFFF;
+    height: 50vh;
+    margin-top: -22px;
+  }
+  
+  .health-form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .health-form-title {
+    text-align: center;
+    color: #3D348B;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .health-form-subtitle {
+    text-align: center;
+    color: #666;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .health-form-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 60vh;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background: white;
+    padding-top: 40px;
+    padding-left: 40px;
+  }
+  
+  .health-form-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .health-purchase-request {
+    background-color: #3D348B;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .health-form-image {
+    width: 200px;
+  }
+  
+  .health-form-right {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .health-form-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .health-form-group {
+    margin-bottom: 15px;
+    width: 48%;
+  }
+  
+  .health-form-group label {
+    display: block;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .health-form-input {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #3D348B;
+    background: none;
+    outline: none;
+  }
+  
+  .health-form-input-file {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .health-form-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+  
+  .health-submit-button {
+    background-color: #3D348B;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-top: -20px;
+    margin-left: 150px;
+  }
+  
+  .health-alert {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .upload-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  

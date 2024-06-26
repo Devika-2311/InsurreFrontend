@@ -1,0 +1,83 @@
+.my-policies {
+  padding: 20px;
+}
+
+.h2 {
+  text-align: center;
+}
+
+.search-bar-small {
+  display: block;
+  margin: 0 auto 20px;
+  padding: 5px;
+  width: 200px;
+}
+
+.policy-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.policy-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 20px;
+  width: 23%;
+  box-sizing: border-box;
+}
+
+.policy-card h3 {
+  margin: 0 0 10px;
+}
+
+.policy-card p {
+  margin: 5px 0;
+}
+
+.policy-card button {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.status-pending {
+  background-color: #3D348B;
+  color: white;
+  cursor: not-allowed;
+}
+
+.buy-again, .pay-premium {
+  background-color: #3D348B;
+  color: white;
+}
+
+.buy-again:hover, .pay-premium:hover {
+  background-color: #4cae4c;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.page-link {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.page-link.active {
+  background-color: #0056b3;
+}

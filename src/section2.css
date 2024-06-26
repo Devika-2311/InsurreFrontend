@@ -1,0 +1,159 @@
+.footer{
+    /* Rectangle 12 */
+ 
+position: absolute;
+width: 1536px;
+height: 349px;
+left: 0px;
+top: 380px;
+ 
+background: #BFBFFF;
+ 
+}
+.text-1{
+/* Modern Solutions for modern lives */
+ 
+position: absolute;
+width: 194.41px;
+height: 39.81px;
+left: 55px;
+top: 20px;
+ 
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+ 
+color: #000000;
+ 
+ 
+ 
+ 
+}
+.autoimage{
+position: sticky;
+width: 208.25px;
+height: 128px;
+left: 430px;
+margin-top: 30px;
+}
+.healthimage{
+    /* Health */
+ 
+position: sticky;
+width: 181px;
+height: 128px;
+left: 800px;
+margin-top: 30px;
+ 
+ 
+}
+.autotext{
+position: sticky;
+width: 239px;
+height: 44px;
+left: 417px;
+margin-top: -15px;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #000000;
+}
+.healthtext{
+    /* Drive Worry-Free: Your Auto Insurance Solution Starts Here! */
+position: sticky;
+left: 12.77%;
+right: 10.22%;
+bottom: 10%;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #000000;
+}
+.termtext{
+    /* Life’s Safeguard: Your Journey to financial Security Begins Here! */
+position: sticky;
+width: 233px;
+height: 59px;
+left: 1140px;
+margin-top: -10px;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #000000;
+}
+.termimage{
+    /* Family Meal */
+ 
+position: sticky;
+width: 181px;
+height: 128px;
+left: 1160px;
+margin-top: 30px;
+ 
+ 
+}
+.insurance2{
+    /* Insurance */
+ 
+position: absolute;
+width: 265px;
+height: 191px;
+left: 66px;
+top: 100px;
+ 
+ 
+}
+.card-1{
+/* Rectangle 13 */
+ 
+position: absolute;
+width: 264.82px;
+height: 236.19px;
+left: 400px;
+top: 70px;
+ 
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ 
+border-radius: 5px;
+ 
+}
+.card-2{
+    /* Rectangle 2 */
+ 
+position: absolute;
+width: 264.82px;
+height: 236.19px;
+left: 760px;
+top: 70px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+ 
+}
+.card-3{
+    /* Rectangle 15 */
+ 
+position: absolute;
+width: 264.82px;
+height: 236.19px;
+left: 1120px;
+top: 70px;
+border-radius: 5px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ 
+}
+ 

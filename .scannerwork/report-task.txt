@@ -1,0 +1,6 @@
+projectKey=InuranceManagementFront
+serverUrl=http://localhost:3000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:3000/dashboard?id=InuranceManagementFront
+ceTaskId=864b4d4a-6eac-4717-94bb-10edc179471b
+ceTaskUrl=http://localhost:3000/api/ce/task?id=864b4d4a-6eac-4717-94bb-10edc179471b

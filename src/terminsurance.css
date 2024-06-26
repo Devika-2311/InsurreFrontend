@@ -1,0 +1,226 @@
+.term-policy-page {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+ 
+.main{
+  background-color: #BFBFFF;
+}
+ .termbody1{
+  background-color: #BFBFFF;
+ }
+.term-policy-container {
+  display: flex;
+  width: 90%;
+  max-width: 1200px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 40px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  margin-top: -5%;
+}
+ 
+.term-policy-info {
+  flex: 2;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+ 
+.term-premium-calculator {
+  flex: 1;
+  padding: 20px;
+  padding-left: 40px;
+ 
+    width: 35%;
+    margin-top: -20px;
+ 
+}
+ 
+
+.term-policy-info h2 {
+  color: #2222E0;
+  text-align: center;
+  font-size: 24px;
+}
+ 
+.term-policy-info .subtitle {
+  text-align: center;
+  font-weight: 800;
+  font-size: 14px;
+  color: #2222E0;
+}
+ 
+.term-policy-info p, .term-policy-info ul, .term-policy-info ol {
+  text-align: left;
+  font-size: 14px;
+}
+ 
+.term-policy-info .badges {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+ 
+.badge {
+  background-color: #5353FF;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+  margin: 0 5px;
+}
+ 
+.buy-now-button {
+  display: block;
+  width: 196px;
+  background-color: #2222E0;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin: 20px auto 0;
+  cursor: pointer;
+  text-align: center;
+}
+ 
+
+ 
+.term-premium-calculator .calculator-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+ 
+
+.term-premium-calculator .form-group label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+ 
+  align-self: center;
+  position: relative;
+  left: -20%;
+}term-premium-calculator .form-control {
+  width: 50%;
+  padding: 8px;
+  border-radius: 5px;
+  left: -20%;
+  position: relative;
+  border: 1px solid #ccc;
+  background-color: #BFBFFF;
+  font-size: 14px;
+}
+
+ 
+.form-main {
+  position: absolute;
+  width: 538px;
+  height: 352px;
+  
+}
+ 
+.term-premium-calculator .form-control {
+  width: 50%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #BFBFFF;
+  font-size: 14px;
+}
+ 
+.term-premium-calculator .form-check {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+ 
+.term-premium-calculator .form-check-input {
+  margin-right: 10px;
+}
+ 
+.button-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+ 
+.calculate-button, .save-button {
+  width: 140px;
+  background-color: #2222E0;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+  /* align-items: center; */
+  cursor: pointer;
+}
+ 
+.premium-result {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+ 
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ 
+.modal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+ 
+.modal-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+ 
+.modal-buttons .btn {
+  width: 100px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+ 
+.modal-buttons .btn-success {
+  background-color: #4CAF50;
+  color: #fff;
+}
+.form-groupO{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+.form-groupR{
+  display: flex;
+  flex-direction: row;
+ 
+}
+.modal-buttons .btn-danger {
+  background-color: #f44336;
+  color: #fff;
+}
+ 

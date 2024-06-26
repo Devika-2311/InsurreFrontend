@@ -1,0 +1,24 @@
+.counts {
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.box {
+    width: 100%;
+    height: 5rem;
+    border-radius: 5%;
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3%;
+    background-color: #2e27b7;
+    margin-right: 2%;
+    color: white;
+}
+ 
+.chart{
+    width: 80%;
+    height: 40%;
+    margin: 0 auto;
+}

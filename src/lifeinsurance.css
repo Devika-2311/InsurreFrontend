@@ -1,0 +1,177 @@
+/* lifeinsurance.css */
+ 
+.bodyt {
+    background-color: #BFBFFF;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+  .buyterm {
+    position: relative;
+    width: 1118px;
+    height: 581.38px;
+    top:5%;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 20px;
+  }
+ 
+h1{
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #2222E0;
+display: flex;
+flex-direction: row;
+justify-content: center;
+text-align: center;
+padding: 10px;
+gap: 10px;
+  }
+  .sub{
+font-family: 'Plus Jakarta Sans',sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #2222E0;
+  }
+  .sub1{
+    position: relative;
+    width: 690px;
+    left: 180px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: #000000;
+  }
+.trendinglogo{
+position: absolute;
+    width: 80px;
+    height: 28px;
+    left: -10px;
+}
+  .trending-a{
+    text-align: center;
+    position: absolute;
+    width: 153.5px;
+    height: 27.61px;
+    left: 180px;
+    background: #5353FF;
+ 
+  }
+  .tax-a{
+    text-align: center;
+    position: absolute;
+    width: 153.5px;
+    height: 27.61px;
+    left: 390px;
+    background: #5353FF;
+  }
+  .terms{
+    position: absolute;
+    width: 193px;
+    height: 19px;
+    left: 180px;
+    top: 210px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+  }
+  .optional{
+    position: absolute;
+    width: 193px;
+    height: 19px;
+    left: 180px;
+    top: 405px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+  }
+  .items{
+    position: absolute;
+    width: 900px;
+    height: 164.83px;
+    left: 180px;
+    top: 250px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+  }
+  .items-1{
+    position: absolute;
+    width: 945.48px;
+    height: 164.83px;
+    left: 180px;
+    top: 435px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+  }
+  .termlogo{
+    position: absolute;
+    width: 236px;
+    height: 223px;
+    left: 900px;
+    top: 20px;
+  }
+  .buynow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 305.65px;
+    height: 35.73px;
+    left: 400px;
+    top: 550px;
+    background: #2222E0;
+    border-radius: 5px;
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-style: italic;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+color: #FFFFFF;
+  }
+  .tax{
+    top: 9px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height:5px;
+    color: #FFFFFF;
+  }
+.trending{
+top: 9px;
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height:5px;
+color: #FFFFFF;
+  }

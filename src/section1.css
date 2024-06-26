@@ -1,0 +1,72 @@
+.text-m{
+    position: absolute;
+    width: 617px;
+    height: 53px;
+    left: 30px;
+    top: 136px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+ 
+.mid{
+    background-color: white !important;
+}
+}
+.text-l{
+
+ 
+position: absolute;
+width: 314px;
+height: 59px;
+left: 75px;
+top: 212px;
+ 
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+ 
+color: #000000;
+ 
+ 
+ 
+ 
+ 
+}
+.get-started{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 154px;
+    height: 42px;
+    left: 87px;
+    top: 300px;
+    background: #2222E0;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+ 
+.family{
+   
+ 
+position: absolute;
+width: 323px;
+height: 265px;
+left: 1035px;
+top: 121px;
+ 
+ 
+}
